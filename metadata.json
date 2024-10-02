@@ -1,0 +1,17 @@
+{
+    "name": "club",
+    "description": "",
+    "image": "https://bwyl.nyc3.digitaloceanspaces.com/kinode/dartfrog/dartfrog256_nobg.png",
+    "properties": {
+        "package_name": "club",
+        "current_version": "0.1.0",
+        "publisher": "template.os",
+        "mirrors": [],
+        "code_hashes": {
+        },
+        "wit_version": 0,
+        "dependencies": []
+    },
+    "external_url": "",
+    "animation_url": ""
+}
